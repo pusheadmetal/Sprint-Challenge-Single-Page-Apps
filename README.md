@@ -25,11 +25,11 @@ In this challenge, you will create a Single Page Application complete with Clien
 Demonstrate your understanding of this Sprint's concepts by answering the following free-form questions. Edit this document to include your answers after each question.
 
 - [ ] Explain benefit(s) using `client-side routing`?
-> Answer:
+> Answer: You don't need a server! So you don't have to sit there and wait for your frontend to tell your backend what to fetch, then return the fetched data back to you so you can display it. With client-side routering you can skip all of that and just let React do it for you. On top of that, you get to make Single Page Apps with it.
 - [ ] What does AJAX stand for?
-> Answer:
+> Answer: Asynchronous JavaScript and XML. Also a Greek hero of the Trojan War, known for his size and strength.
 - [ ] What are `controlled components` in React?
-> Answer:
+> Answer: Controlled Components have functions that oversee all of the data input into them on every onChange event. All of this data is then stored in state. The data that is displayed by the controlled component is through props that have been passed down from a parent or container.
 
 
 ## Project Set Up
